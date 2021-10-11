@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/leo-moviedb/static/css/main.8851d8f9.chunk.css",
+    "main.css": "/leo-moviedb/static/css/main.777d25c3.chunk.css",
     "main.js": "/leo-moviedb/static/js/main.d500d63e.chunk.js",
     "main.js.map": "/leo-moviedb/static/js/main.d500d63e.chunk.js.map",
     "runtime-main.js": "/leo-moviedb/static/js/runtime-main.dfdef55b.js",
@@ -10,14 +10,14 @@
     "static/js/3.cfebc6de.chunk.js": "/leo-moviedb/static/js/3.cfebc6de.chunk.js",
     "static/js/3.cfebc6de.chunk.js.map": "/leo-moviedb/static/js/3.cfebc6de.chunk.js.map",
     "index.html": "/leo-moviedb/index.html",
-    "static/css/main.8851d8f9.chunk.css.map": "/leo-moviedb/static/css/main.8851d8f9.chunk.css.map",
+    "static/css/main.777d25c3.chunk.css.map": "/leo-moviedb/static/css/main.777d25c3.chunk.css.map",
     "static/js/2.07d6ef75.chunk.js.LICENSE.txt": "/leo-moviedb/static/js/2.07d6ef75.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "/leo-moviedb/static/media/fa-solid-900.a940d584.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.dfdef55b.js",
     "static/js/2.07d6ef75.chunk.js",
-    "static/css/main.8851d8f9.chunk.css",
+    "static/css/main.777d25c3.chunk.css",
     "static/js/main.d500d63e.chunk.js"
   ]
 }
