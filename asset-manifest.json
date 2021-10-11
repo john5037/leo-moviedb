@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leo-moviedb/static/css/main.8851d8f9.chunk.css",
+    "main.js": "/leo-moviedb/static/js/main.edd9c059.chunk.js",
+    "main.js.map": "/leo-moviedb/static/js/main.edd9c059.chunk.js.map",
+    "runtime-main.js": "/leo-moviedb/static/js/runtime-main.21de1a8f.js",
+    "runtime-main.js.map": "/leo-moviedb/static/js/runtime-main.21de1a8f.js.map",
+    "static/js/2.07ec9f8c.chunk.js": "/leo-moviedb/static/js/2.07ec9f8c.chunk.js",
+    "static/js/2.07ec9f8c.chunk.js.map": "/leo-moviedb/static/js/2.07ec9f8c.chunk.js.map",
+    "static/js/3.8d3352b0.chunk.js": "/leo-moviedb/static/js/3.8d3352b0.chunk.js",
+    "static/js/3.8d3352b0.chunk.js.map": "/leo-moviedb/static/js/3.8d3352b0.chunk.js.map",
+    "index.html": "/leo-moviedb/index.html",
+    "static/css/main.8851d8f9.chunk.css.map": "/leo-moviedb/static/css/main.8851d8f9.chunk.css.map",
+    "static/js/2.07ec9f8c.chunk.js.LICENSE.txt": "/leo-moviedb/static/js/2.07ec9f8c.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/leo-moviedb/static/media/fa-solid-900.a940d584.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21de1a8f.js",
+    "static/js/2.07ec9f8c.chunk.js",
+    "static/css/main.8851d8f9.chunk.css",
+    "static/js/main.edd9c059.chunk.js"
+  ]
+}
